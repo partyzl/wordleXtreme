@@ -17,11 +17,11 @@ function FiveLetter() {
         }
       }
     };
-    if (wordGrid.length === 0) {
-      initialiseGrid();
-    }
+    // if (wordGrid.length === 0) {
+    //   initialiseGrid();
+    // }
   });
-  return <div></div>;
+  return <div>Hello</div>;
 }
 
 export default FiveLetter;
